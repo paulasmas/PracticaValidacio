@@ -1,0 +1,9 @@
+{
+    "arrayUsers":[
+        {"username":"ivan","password":"1234"},
+        {"username":"user","password":"user"},
+        {"username":"admin","password":"admin"},
+        {"username":"newuser1","password":"newuser1"},
+        {"username":"newuser2","password":"newuser2"}
+    ]
+}
